@@ -541,6 +541,15 @@
       "twitter": ""
     },
     {
+      "name": "Nelson Uprety",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25173636?v=4",
+      "github": "nelsonuprety1",
+      "twitter": "Nelsan97354355",
+      "projects": [
+        "https://github.com/devvsakib/power-the-web/tree/main/PROJECTS/text-tune"
+      ]
+    },
+    {
       "name": "Piyush Yadav",
       "avatarUrl": "https://avatars.githubusercontent.com/u/72244570?v=4",
       "github": "piyushyadav1617",
@@ -550,6 +559,28 @@
       "name": "Paila Hemanth",
       "avatarUrl": "https://avatars.githubusercontent.com/u/74002716?s=96&v=4",
       "github": "HemanthPaila",
+      "twitter": ""
+    },
+    {
+      "name": "Srujan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/94789216?v=4",
+      "github": "Srujan1527",
+      "twitter": ""
+    },
+    {
+      "name": "Dian Rahmadani",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20562116?v=4",
+      "github": "madiajijah11",
+      "twitter": "rappwalk",
+      "projects": [
+        "https://github.com/devvsakib/power-the-web/tree/main/PROJECTS/FavPets-api",
+        "https://github.com/devvsakib/power-the-web/tree/main/PROJECTS/FavPets-web"
+      ]
+    },
+    {
+      "name": "Vikas Parmar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/36152918?s=400",
+      "github": "visparmar",
       "twitter": ""
     }
   ]
